@@ -1,0 +1,39 @@
+.left{float: left}
+.center{text-align: center}
+.right {float: right}
+
+.bg{background-image: url(../images/lightblue.jpeg);
+background-position: bottom right;
+background-repeat: repeat}
+
+
+.header{
+    top: 0px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    color: white;
+    background-color: darkgreen}
+    
+.textwhite{color: whitesmoke}
+
+.thickbox{
+    border-width: thick;
+    border-style: solid;
+    border-color: darkolivegreen}
+
+.caption{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    color: white;
+    background-color: darkolivegreen}
+
+.footer{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    color: black;
+    text-align: center}
